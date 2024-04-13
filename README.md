@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
+<h1 align="center">Hello 😀, I'm Ajay Kumar ,🤵</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm Ajay Kumar,  and Data Analysis Enthusiast a Data Scientist, with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.</h3>
 
 <img align="right" alt="Data Analysis" width="400" src="75ez.gif">
