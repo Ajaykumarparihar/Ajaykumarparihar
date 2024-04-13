@@ -1,5 +1,6 @@
 <h1 align="center">Hello 😀, I'm Ajay Kumar ,🤵</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm Ajay Kumar,  and Data Analysis Enthusiast a Data Scientist, with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.</h3>
+<h3 align="center">Hey there! I'm Ajay Kumar, a Data Scientist and avid Data Analysis Enthusiast. My journey revolves around harnessing data to unravel insights and tackle intricate challenges. Join me as I navigate through the realms of data science.
+constantly honing my skills and expanding my knowledge. Explore my project portfolio and let's embark on this data-driven adventure together!".</h3>
 
 <img align="right" alt="Data Analysis" width="400" src="75ez.gif">
 
